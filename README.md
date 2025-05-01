@@ -4,7 +4,7 @@
 
 # Code
 
-void main () {
+'void main () {'
     
     vec2 uv = uv();
     
@@ -18,5 +18,5 @@ void main () {
     c+= sin(red * y * sin(time) * 2.);
     
     
-   gl_FragColor = vec4(c,1.);
+   'gl_FragColor = vec4(c,1.);'
 }
