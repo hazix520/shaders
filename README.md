@@ -3,7 +3,7 @@
 [Video Link](https://youtu.be/bp3CmpvxUL8)
 
 # Code
-'
+
 void main () {
     
     vec2 uv = uv();
@@ -20,4 +20,3 @@ void main () {
     
    gl_FragColor = vec4(c,1.);
 }
-'
