@@ -1,6 +1,6 @@
 # Shaders
 
-#Video
+# Video
 [Video Link](https://youtu.be/bp3CmpvxUL8)
 
 # Code
@@ -19,5 +19,8 @@
     c+= sin(red * y * sin(time) * 2.);
     
     
-    gl_FragColor = vec4(c,1.);
-}
+    gl_FragColor = vec4(c,1.);}
+
+# Explanation
+
+
